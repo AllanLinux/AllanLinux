@@ -9,7 +9,6 @@ Com graduação em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uni
 ```kotlin
 object **ALLAN** {
  val name = "ALLAN LOPES FERRREIRA"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Java", "C#", "Angular", "Linux")
