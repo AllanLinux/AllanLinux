@@ -1,6 +1,6 @@
 # Salve Devs!
 
-Com graduação em Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie e também em Redes de Computadores pela Universidade Nove de Julho (Uninove), possuo pós-graduação lato sensu com especialização em Java na Universidade Tecnológica Federal do Paraná. Atua como desenvolvedor Back-End na Accenture/Avanade, participando de projetos em clientes como Equatorial Energia, Santander, Vivo e Tim, e possui interesse em Computação Paralela e de Alto Desempenho.
+Com graduação em Análise e Desenvolvimento de Sistemas pela Universidade Presbiteriana Mackenzie e também em Redes de Computadores pela Universidade Nove de Julho (Uninove), possuo pós-graduação lato sensu com especialização em Java na Universidade Tecnológica Federal do Paraná e atualmente curso pós-graduação lato sensu em Inteligência Artificial na mesma instituição. Atuo como desenvolvedor Back-End na Accenture/Avanade, participando de projetos em clientes como Equatorial Energia, Santander, Vivo, Claro e Tim, e possuo interesse em Computação Paralela, Alto Desempenho e Inteligencia Artificial.
 
 ## Mais sobre mim
 
